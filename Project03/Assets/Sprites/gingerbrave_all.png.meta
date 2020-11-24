@@ -104,10 +104,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 173
-        height: 197
+        width: 219
+        height: 251
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -123,12 +123,12 @@ TextureImporter:
       name: gingerbrave_all_1
       rect:
         serializedVersion: 2
-        x: 174
+        x: 219
         y: 0
-        width: 173
-        height: 195
+        width: 216
+        height: 251
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -144,12 +144,12 @@ TextureImporter:
       name: gingerbrave_all_2
       rect:
         serializedVersion: 2
-        x: 347
-        y: 3
-        width: 174
-        height: 194
+        x: 435
+        y: 0
+        width: 218
+        height: 251
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,12 +165,12 @@ TextureImporter:
       name: gingerbrave_all_3
       rect:
         serializedVersion: 2
-        x: 523
-        y: 5
-        width: 171
-        height: 191
+        x: 653
+        y: 0
+        width: 216
+        height: 251
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
